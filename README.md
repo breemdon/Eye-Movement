@@ -2,10 +2,13 @@
 
 ## Description
 Eye Movement Assignment for MIT xPro Course: Professional Certification in Coding
+In the starter code of this assignment I built upon an exisiting eye and made the movement of the eye. The goal of this assignment was to add a second eye that followed the mouse movement so both eyes were moving together. 
 
 ## How to Run
+This eye movement activity is simple because it is controlled by mouse movement. Move your mouse and the eyes will follow!
 
 ## Roadmap of Future Improvements
+This project can continue to be improved upon by adding features and animation to the eyes. For example I could add eye lashes that may blink. I would make the eyes go different directions with mouse movement. The code used in this project inspire all different kinds of movement.
 
 ## License
 License: MIT License
