@@ -2,7 +2,8 @@
 
 ## Description
 Eye Movement Assignment for MIT xPro Course: Professional Certification in Coding
-In the starter code of this assignment I built upon an exisiting eye and made the movement of the eye. The goal of this assignment was to add a second eye that followed the mouse movement so both eyes were moving together. 
+
+In the starter code of this assignment I built upon an exisiting eye and added to the existing code to animate the movement of the eye as it followed the mouse movement. The goal of this assignment was to add a second eye that followed the mouse movement so both eyes were moving together. This involved 
 
 ## How to Run
 This eye movement activity is simple because it is controlled by mouse movement. Move your mouse and the eyes will follow!
